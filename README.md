@@ -2,10 +2,6 @@
 
 An essential task management application where users can create, edit, and delete tasks. It also allows users to mark tasks as completed, helping them stay organized and manage their daily activities efficiently.
 
-![TO_DO_LIST_APP](path/to/your/custom-image.png) <!-- Replace with your actual image path -->
-
----
-
 ## 🚀 Key Features
 
 - ✅ Add, edit, delete, and mark tasks as completed.
@@ -42,9 +38,7 @@ An essential task management application where users can create, edit, and delet
 ## Screenshots
 - Home Page
 ![img1](https://github.com/PrathameshDhande22/FlaskTutorial-Todo-App/assets/87264935/17038d8d-20c1-499c-89a0-b8f2c303e7e7)
-- About Page
-![img2](https://github.com/PrathameshDhande22/FlaskTutorial-Todo-App/assets/87264935/a71acb5f-4abe-4dfe-ab9e-508baa7adc45)
-
+  
 
 ## Installation
 
