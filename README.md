@@ -9,7 +9,6 @@ An essential task management application where users can create, edit, and delet
 - 🕹️ User-friendly interface with real-time updates.
 - 🧠 Persistent storage using SQLite for saving task data.
 
----
 
 ## 🛠️ Tech Stack & Libraries Used
 
@@ -23,8 +22,6 @@ An essential task management application where users can create, edit, and delet
 
 - **Other Libraries**
   - [Requests](https://docs.python-requests.org/en/latest/) – For fetching weather data or API integration (optional feature).
-
----
 
 ## 📦 Setup Instructions
 
