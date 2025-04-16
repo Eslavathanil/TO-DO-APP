@@ -37,7 +37,7 @@ An essential task management application where users can create, edit, and delet
 
 ## Screenshots
 - Home Page
-![img1](https://github.com/PrathameshDhande22/FlaskTutorial-Todo-App/assets/87264935/17038d8d-20c1-499c-89a0-b8f2c303e7e7)
+![img1](https://res.cloudinary.com/dp8gu4t9m/image/upload/v1744793552/Screenshot_2025-04-16_142135_djbgjv.png)
   
 
 ## Installation
