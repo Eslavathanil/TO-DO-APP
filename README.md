@@ -1,36 +1,55 @@
-# Flask Todo App
+# 📝 TO_DO_LIST_APP
 
-The Flask Todo App is a task management application developed using Flask and Python. It allows users to add todos by specifying a title and description. Users can view their todos in a table format with two buttons for actions: "Update" to modify the todo title and description, and "Completed" to mark the todo as done.
+An essential task management application where users can create, edit, and delete tasks. It also allows users to mark tasks as completed, helping them stay organized and manage their daily activities efficiently.
 
-## Features
+![TO_DO_LIST_APP](path/to/your/custom-image.png) <!-- Replace with your actual image path -->
 
-- Add todos with a title and description
-- View todos in a table format
-- Update todo title and description
-- Mark todos as completed
+---
 
-## Technologies Used
+## 🚀 Key Features
 
-- Flask: Python web framework
-- SQLite: Database for storing todos
-- Bootstrap: Front-end framework for responsiveness
+- ✅ Add, edit, delete, and mark tasks as completed.
+- 🗂️ Organize tasks by priority or deadline.
+- 🕹️ User-friendly interface with real-time updates.
+- 🧠 Persistent storage using SQLite for saving task data.
+
+---
+
+## 🛠️ Tech Stack & Libraries Used
+
+- **Frontend**
+  - [Bootstrap](https://getbootstrap.com/) – Responsive and modern UI components.
+  - [Tkinter](https://docs.python.org/3/library/tkinter.html) – GUI toolkit for desktop-based version.
+
+- **Backend**
+  - [Flask](https://flask.palletsprojects.com/) – Lightweight Python web framework.
+  - [SQLite](https://www.sqlite.org/index.html) – Local database for storing todos.
+
+- **Other Libraries**
+  - [Requests](https://docs.python-requests.org/en/latest/) – For fetching weather data or API integration (optional feature).
+
+---
+
+## 📦 Setup Instructions
+
+1. **Clone the repository**
+
+   ```bash
+   git clone  https://github.com/Eslavathanil/TO-DO-APP.git
+   cd TO_DO_LIST_APP
+
 
 ## Screenshots
 - Home Page
 ![img1](https://github.com/PrathameshDhande22/FlaskTutorial-Todo-App/assets/87264935/17038d8d-20c1-499c-89a0-b8f2c303e7e7)
 - About Page
 ![img2](https://github.com/PrathameshDhande22/FlaskTutorial-Todo-App/assets/87264935/a71acb5f-4abe-4dfe-ab9e-508baa7adc45)
-- Error Page
-![img3](https://github.com/PrathameshDhande22/FlaskTutorial-Todo-App/assets/87264935/8a394de4-165c-453c-b9ac-af52235e21df)
 
-## Error Page
-
-The app includes a custom 404 error page, which is displayed when a user tries to access a non-existent page. The error page showcases an image by pikisuperstar from Freepik. Attribution to the image can be found at the following link: [Image by pikisuperstar](https://www.freepik.com/free-vector/error-404-concept-landing-page_4730712.htm#query=404%20page&position=7&from_view=keyword&track=ais).
 
 ## Installation
 
 1. Clone the repository:
-`git clone https://github.com/PrathameshDhande22/FlaskTutorial-Todo-App.git`
+`git clone  https://github.com/Eslavathanil/TO-DO-APP.git
 
 2. Navigate to the project directory:
 `cd FlaskTutorial-Todo-App `
@@ -46,12 +65,4 @@ The app includes a custom 404 error page, which is displayed when a user tries t
 
 2. Open your web browser and visit the following URL: `http://localhost:5000`
 
-## Demo
 
-A live demo of the Flask Todo App can be accessed at [https://flaskapptodo.onrender.com/](https://flaskapptodo.onrender.com/).
-
-## GitHub Repository
-
-The Flask Todo App's source code is available on GitHub at [https://github.com/PrathameshDhande22/FlaskTutorial-Todo-App](https://github.com/PrathameshDhande22/FlaskTutorial-Todo-App).
-
-## Author : Prathamesh Dhande
